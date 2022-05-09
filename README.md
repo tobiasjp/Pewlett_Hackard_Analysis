@@ -25,6 +25,7 @@ Tables:
 
 ## Analysis and Results
 
+
 ### Retirement Titles
 The first query of the database narrowed down employees born between 1952 and 1955, as this is the most likely group of individuals nearing retirement. The results of this query produced a significant number of employees:
 
@@ -34,7 +35,8 @@ The first query of the database narrowed down employees born between 1952 and 19
   
   - This data is not specific enough to make a determination for all positions that will need to be filled, but is a good start to determine the number of employees that may fit the retirement criteria.
   
-![retirement_titles]('Resources/retirement_titles.png')
+![retirement_titles](Resources/retirement_titles.png)
+
 
 ### Unique Titles
 In order to narrow down the number of employees to their current job, in our second query we applied a filter to only return distinct records for employees in their current positions, as opposed to a history of all employment records present in the first query.  
@@ -43,7 +45,8 @@ In order to narrow down the number of employees to their current job, in our sec
   
   - The results also suggest large areas of the business will need immediate replacements, as many of these positions likely are an important part of company success.
 
-![unique titles]('Resources/unique_titles.png')
+![unique titles](Resources/unique_titles.png)
+
 
 ### Retiring Titles
 In our third query, we needed to determine the job titles with the largest number of positions that will need to be filled.
@@ -54,7 +57,8 @@ In our third query, we needed to determine the job titles with the largest numbe
   
   - Managers will experience the least amount of job openings with only two records showing for potential job vacancies.
 
-![retiring titles]('Resources/retiring_titles.png')
+![retiring titles](Resources/retiring_titles.png)
+
 
 ### Employee Mentorship Program
 In order to develop a potential list of employees that will be retiring and potentially interested in a participating in a company mentorship program, we filtered our data to just indivudals born in the year 1955.  This has the potential to help the company bridge the gap between the large skill set leaving the company and the new individuals that will need to fill those skill sets.
@@ -64,7 +68,7 @@ In order to develop a potential list of employees that will be retiring and pote
   - Considering the large number of employee vacancies that will need to be filled, it would be useful to expand the criteria for participants and group together indivuduals with similar job titles to cover a larger range of mentoring.
 
 
-![employee mentorship]('Resources/mentorship.png')
+![employee mentorship](Resources/mentorship.png)
 
 
 ## Summary 
