@@ -90,3 +90,12 @@ In order to develop a potential list of employees that will be retiring and pote
     - The criteria for participation would need to be expanded to include more individuals in a larger range of employees, for example employees born between 1955-1960.
     
     - The program could also look at the potential successes and opportunities of placing mentors with groups of mentees with similar job titles and functions.
+
+### Recommendations
+
+  - It may be important to consider the change in payroll that is likely to happen once the retirement-ready employees leave the work company.
+    - By aggregating the total of salary for each employee title, it may be beneficial to consider if the excess payroll from having many senior positions leave the company can be reallocated toward hiring more employees or investing in education programs for the employees that will fill those spots.  This information can be returned by filtering the retiring employees from the employees table and joining with the salaries table and doing a aggregate total of employee salaries.
+ 
+  - It is also important to consider individuals in current positions that are not going to retire.  We can use the database to determine a potential list of employees that are currently not in senior positions, such as Senior engineer and Senior Staff, and their potential for promotion based on time in current position and time at the company.
+  
+    - We can join the employees table with the titles table and filter based on title, from_date and to_date.  This insight may help minimize the gap of employees that will need to fill more experienced positions by placing experienced non retirement-ready employees in those positions.
