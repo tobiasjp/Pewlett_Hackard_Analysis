@@ -2,7 +2,7 @@
 
 ## Overview
 
-Pewlett-Hackard is a technology company that is facing a large exodus of employees due to the number of employees reaching retirement age.  In order to plan for this 'silver tsunami' which will leave thousands of jobs vacant, Pewlett-Hackard executives have asked for an analysis of all of employees that will soon reach retirement age in order to start planning for Pewlett-Hackard's future.  Executives will need to determine which positions in which departments need to be filled.  Secondly, executives would like to develop a mentorship program that will fill the gap between the experienced skill sets of retirement-ready employees and next generation of Pewlett-Hackard employees.
+Pewlett-Hackard is a technology company that is facing a large exodus of employees due to the number of employees reaching retirement age.  In order to plan for this 'silver tsunami' which will leave thousands of jobs vacant, Pewlett-Hackard executives have asked for an analysis of all of employees that will soon reach retirement age in order to start planning for Pewlett-Hackard's future.  Executives will need to determine which positions in which departments need to be filled.  Secondly, executives would like to develop a mentorship program that will fill the gap between the experienced skill sets of retirement-ready employees and next generation of Pewlett-Hackard employees. 
 
 ## Resources
 
