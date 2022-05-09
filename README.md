@@ -73,7 +73,7 @@ In order to develop a potential list of employees that will be retiring and pote
 
 ## Summary 
 
-Based on an analysis of retiring employees:
+### Based on an analysis of retiring employees:
 
   - 72,458 vacancies will need to be filled in total.
   
@@ -81,7 +81,7 @@ Based on an analysis of retiring employees:
     
     - Staff positions will experience a significant vacancy with 32,562 positions between Senior staff and non-titled Staff.
 
-Based on an analysis of potential candidates for a Mentorship program:
+### Based on an analysis of potential candidates for a Mentorship program:
 
   - 1,549 employees meet the criteria for employees that could participate in the program.
   
